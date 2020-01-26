@@ -34,3 +34,10 @@ Participant observations will be conducted in order to understand social forces 
 ![](picCardio.png)  
 
 We will examine two specific scenarios relating to cardiac arrest of a crew member: inside the habitat and during EVA. Both scenarios will ideally be tested multiple times to collect useful data giving the crew the opportunity to provide recommendations on extraterrestrial-specific basic and advanced (BLS and ALS) guidelines. The preliminary procedures will be derived from current guidelines for hypogravity-specific basic life support (BLS) and CPR. Investigating such scenarios will enable the assessment of the feasibility of the procedures, and provide observations for fine-tuning them. Even though MDRS does not offer a chance to evaluate CPR procedures in simulated hypogravity, it is a unique environment with a combination of factors that resemble a Martian habitat. The isolated nature of MDRS provides a unique opportunity to test and analyze emergency procedures, and most importantly examine the response of crew members and observe potential points of failure. As an instructor for the European Resuscitation Council, Health and Safety Officer Dr. Olympiou Charikleia is designing and leading this project.
+
+---
+**Creativity and stress levels in restricted environments**  
+
+![](picCardio.png)
+
+We will conduct experiments that measure creativity and stress everyday in the station. We will gather various types of physiological data including heart rate, temperature data, and amylase in saliva. These data will be provided to researchers for the analysis of what factors affect creativity and stress. We will also be investigating how plants, foods, and meditation affect crew members in the restricted environment. GreenHab Officer Yuzo Shibata is an independent advisor between artists and scientists and will be leading this project.
