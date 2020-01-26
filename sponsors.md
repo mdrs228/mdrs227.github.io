@@ -1,5 +1,5 @@
 ---
-title: Sponsors
+title: Contact
 feature_text: |
   Sponsors of our mission.
 feature_image: "https://picsum.photos/2560/600?image=794"
@@ -7,11 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
-
-<form action="http://formspree.io/moqeoggo method="POST"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
-
-
-<p>Want to know more about and/or support our mission? Please fill out the form below and we will get back to you shortly!</p>
+{::nomarkdown}
+<p>Would you like to know more about and/or support MDRS 227? Please fill out the form below and we will get back to you shortly!</p>
 <form action="https://formspree.io/moqeoggo method="POST" name="sentMessage" id="contactForm" novalidate>
     <div class="row control-group">
         <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -42,6 +39,6 @@ aside: false
         </div>
     </div>
 </form>
-
+{:/nomarkdown}
 
 
