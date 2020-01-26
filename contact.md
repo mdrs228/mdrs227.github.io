@@ -1,7 +1,7 @@
 ---
 title: Contact
 feature_text: |
-  Sponsors of our mission.
+  Please contact us!
 feature_image: "https://picsum.photos/2560/600?image=794"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
