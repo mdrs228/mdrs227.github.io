@@ -105,15 +105,15 @@ navigation_header:
 - title: Mission
   url: /mission/
 - title: Crew
-  url: /contact/
+  url: /crew/
 - title: Research
   url: /research/
 - title: Outreach
   url: /outreach/
 - title: Media
   url: /media/
-- title: Sponsors
-  url: /sponsors/
+- title: Contact
+  url: /contact/
 
 navigation_footer:
 - title: Contact webmaster
