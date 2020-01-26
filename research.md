@@ -38,6 +38,6 @@ We will examine two specific scenarios relating to cardiac arrest of a crew memb
 ---
 **Creativity and stress levels in restricted environments**  
 
-![](picCardio.png)
+![](picCreative.png)
 
 We will conduct experiments that measure creativity and stress everyday in the station. We will gather various types of physiological data including heart rate, temperature data, and amylase in saliva. These data will be provided to researchers for the analysis of what factors affect creativity and stress. We will also be investigating how plants, foods, and meditation affect crew members in the restricted environment. GreenHab Officer Yuzo Shibata is an independent advisor between artists and scientists and will be leading this project.
