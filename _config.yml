@@ -61,7 +61,7 @@ collections:
     feature_text: |
       Samplings of our writings in  
       the media and personal blogs.
-    feature_image: "https://picsum.photos/2560/600?image=774"
+    feature_image: ""https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerMedia.png""
 
 # 6. Jekyll collections settings
 defaults:
