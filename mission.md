@@ -3,7 +3,7 @@ title: Mission
 feature_text: |
   An international and diverse team of crew  
   members passionate about space exploration.
-feature_image: "https://picsum.photos/2560/600?image=218"
+feature_image: "bannerMission.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
