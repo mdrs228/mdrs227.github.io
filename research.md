@@ -3,7 +3,7 @@ title: Research
 feature_text: |
   Conducting medical, sociological, biological, and  
   engineering research in extreme environments.
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: ""https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerResearch.png""
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
