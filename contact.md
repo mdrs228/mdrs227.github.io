@@ -1,8 +1,8 @@
 ---
 title: Contact
 feature_text: |
-  <span style="color:blue">Please contact us about our mission! text</span>
-feature_image: "https://picsum.photos/2560/600?image=794"
+  Please contact us about our mission!
+feature_image: ""https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerContact.png""
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
