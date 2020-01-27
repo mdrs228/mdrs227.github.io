@@ -2,7 +2,7 @@
 title: Contact
 feature_text: |
   Please contact us about our mission!
-feature_image: ""https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerContact.png""
+feature_image: "https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerContact.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
