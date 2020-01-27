@@ -1,6 +1,6 @@
 <p align="center" style="padding: 10px; color: Gainsboro; background-color: MidnightBlue">
   
-  <b>Mission Countdown</b><br>
+  <font face="arial"><b>Mission Countdown</b><br></font>
   
 <iframe src="https://free.timeanddate.com/countdown/i74octvf/n220/cf12/cm0/cu4/ct0/cs0/ca0/co0/cr0/ss0/cac000/cpc000/pcbbb/tceac8d5/fs100/szw320/szh135/iso2020-04-25T23:59:59/pd2" allowTransparency="true" frameborder="0" width="130" height="30"></iframe>
     
