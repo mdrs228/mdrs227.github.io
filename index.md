@@ -1,4 +1,4 @@
-<p align="center" style=”padding: 10px; color: red; background-color: blue; border: black 2px solid”>
+<p align="center" style="padding: 10px; color: red; background-color: blue; border: black 2px solid">
   
   <b>Mission Countdown</b><br>
   
