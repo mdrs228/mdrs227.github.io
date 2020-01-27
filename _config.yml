@@ -57,10 +57,11 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Our thoughts and ideas" # The post list page content
     feature_text: |
-      Samplings of our writings in  
-      the media and personal blogs.
+      <span style="color:white">Samplings of our writings in   
+      the media and personal blogs.</span>
+
     feature_image: "https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerMedia.png"
 
 # 6. Jekyll collections settings
