@@ -2,7 +2,7 @@
 title: Crew
 feature_text: |
   Meet the crew!
-feature_image: "https://picsum.photos/2560/600?image=141"
+feature_image: ""https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerCrewMission.png""
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
