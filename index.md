@@ -1,4 +1,4 @@
-<p align="center" style="padding: 10px; color: GhostWhite; background-color: DarkBlue">
+<p align="center" style="padding: 10px; color: Gainsboro; background-color: MidnightBlue">
   
   <b>Mission Countdown</b><br>
   
