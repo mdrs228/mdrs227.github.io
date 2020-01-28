@@ -19,7 +19,7 @@ Stuart Hughes is a Senior World Affairs Producer with BBC News, based in London.
 **Jin Sing Sia, Crew Engineer**  [![Profile on LinkedIn](picLI.png)](https://www.linkedin.com/in/jssia)  [![Profile on GitHub](picGithub.png)](https://github.com/jssia)  [![Personal Webpage](picWWW.png)](https://jssia.weebly.com)  [![Personal Blog](picBlog.png)](https://medium.com/@jssia)   
 Jin Sing Sia is a mechanical engineering undergraduate at the University of Waterloo. He moved from his home country of Malaysia to Canada at 15 to pursue his dream of becoming an aerospace engineer, and ultimately landing humans on Mars. Some of his past projects include conducting engineering simulations of VTOL aircraft rotors, serving as VP Finance for the Waterloo Space Society, and designing a drivetrain for a human-powered submarine.
 
-**Inga Popovaite, Crew Scientist**  
+**Inga Popovaite, Crew Scientist**  [![Profile on LinkedIn](picLI.png)](https://www.linkedin.com/in/inga-popovaite)  [![Personal Twitter](picTwitter.png)](https://twitter.com/inga_pop)  [![Personal Blog](picBlog.png)](https://popovaite.com)   
 Inga Popovaite is a sociology PhD candidate at the University of Iowa. She studies group processes in space analog facilities, with a focus on gender, emotions, and status. Her research brings sociology into space science and helps understand how social forces and structural patterns can shape interactions in long term spaceflight crews. 
 
 **Ludo Valentini, Crew Engineer** [![Profile on LinkedIn](picLI.png)](https://www.linkedin.com/in/ludovicavalentini/)   
