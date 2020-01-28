@@ -19,14 +19,14 @@ While past robotic missions to Mars have focused on landing sophisticated instru
 
 ![](picSoil.png)  
 
-We will conduct real-time DNA-sequencing of the soil in the surrounding Utah desert using the [Oxford Nanopore MinION](https://nanoporetech.com/products/minion#). Methane has been reported in this soil and has implications about greenhouse gases on Earth. Methane has also been reported on Mars and has implications about the possibility of extraterrestrial life. In both cases, it is unknown whether the methane source is biological. Our project serves as a proof-of-concept that DNA-sequencing can be successful in remote regions without sequencing facilities. It also bridges investigation of greenhouse gases on Earth with the search for life on other planets - reflecting an overall theme that [space research has significantly informed climate change knowledge here on Earth](https://mdrs227.github.io/blog/2019/11/07/post/). Commander Lindsay Rutter is designing this project and has applied to various funding sources. 
+We will conduct real-time DNA-sequencing of the soil in the surrounding Utah desert using the [Oxford Nanopore MinION](https://nanoporetech.com/products/minion#). Methane has been reported in this soil and has implications about greenhouse gases on Earth. Methane has also been reported on Mars and has implications about the possibility of extraterrestrial life. In both cases, it is unknown whether the methane source is biological. Our project serves as a proof-of-concept that DNA-sequencing can be successful in remote regions without sequencing facilities. It also bridges investigation of greenhouse gases on Earth with the search for life on other planets - reflecting an overall theme that [space research has significantly informed climate change knowledge here on Earth](https://mdrs227.github.io/blog/2019/11/07/post/). Commander Lindsay Rutter designed this project and has applied to various funding sources. 
 
 ---
 **Team dynamics in extreme environments**  
 
 ![](picSocial.png)  
 
-Participant observations will be conducted in order to understand social forces that underlie group interactions in space analog environments. Crew sociologist Inga Popovaite will be collecting and analyzing this data for her dissertation. 
+Participant observations will be conducted in order to understand social forces that underlie group interactions in space analog environments. Crew sociologist Inga Popovaite will be collecting and analyzing this data for her dissertation. She brings experience investigating [sociological and gender interaction studies at MDRS](http://mdrs.marssociety.org/research/gender-and-crew-domination-in-mdrs-simulations). 
 
 ---
 **Cardiac arrest resuscitation simulations in extreme environments**  
