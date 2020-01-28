@@ -1,3 +1,5 @@
+
+{::nomarkdown}
 <p align="center" style="padding: 10px; color: Gainsboro; background-color: MidnightBlue">
   
   <font face="arial"><b>Mission Countdown</b><br></font>
@@ -6,6 +8,7 @@
     
 <br><font face="arial">April 25-May 10, 2020</font>
 </p>
+{:/nomarkdown}
 
 ![Image description](Crew.png)
 
