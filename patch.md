@@ -1,13 +1,15 @@
 ---
 title: Patch
 feature_text: |
-  Our mission patch explained
+  <span style="color:white">Our mission patch explained.</span>
 feature_image: "https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/bannerPatch.png"
 excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
-![](patch.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/patch.png" alt="Mission patch"/>
+</p>
 
 Mission patches are emblems designed and worn by astronauts and people affiliated with a space mission. The first patch was worn in 1963 by the Soviet cosmonaut Valentina Tereshkova on Vostok 6. Tereshkova's patch, however, remained hidden beneath her spacesuit. The idea of designing patches for space missions came from the military, as most of the first astronauts had a background in the military. NASA astronaut Gordon Cooper began the tradition within the United States space programme in 1965. The "Cooper Patch," designed for the Gemini 5 mission, depicted a horse wagon symbolising the mission’s pioneering spirit and the motto "8 Days or Bust." Gemini 5 set a new record for the longest crewed space flight – 7 days, 22 hours, 55 minutes and 14 seconds. 
 
