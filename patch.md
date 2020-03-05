@@ -11,8 +11,6 @@ aside: false
   <img src="https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/patch.png" alt="Mission patch" width="500" height="500"/>
 </p>
 
-[![](https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/patch.png) ](https://raw.githubusercontent.com/mdrs227/mdrs227.github.io/master/patch.png)
-
 Mission patches are emblems designed and worn by astronauts and people affiliated with a space mission. The first patch was worn in 1963 by the Soviet cosmonaut Valentina Tereshkova on Vostok 6. Tereshkova's patch, however, remained hidden beneath her spacesuit. The idea of designing patches for space missions came from the military, as most of the first astronauts had a background in the military. NASA astronaut Gordon Cooper began the tradition within the United States space programme in 1965. The "Cooper Patch," designed for the Gemini 5 mission, depicted a horse wagon symbolising the mission’s pioneering spirit and the motto "8 Days or Bust." Gemini 5 set a new record for the longest crewed space flight – 7 days, 22 hours, 55 minutes and 14 seconds. 
 
 The crew of MDRS 228 chose to follow in this tradition by designing a patch representing the aims of our mission in a visual form. To do so, we commissioned renowned space artist [Tim Gagnon](http://www.kscartist.com/). Born and raised in East Hartford, CT, Tim has had a life-long fascination with space exploration and art. Tim has designed patches for many Space Shuttle and International Space Station crews. Working with collaborators Dr. Jorge Cartes and [Bill Coukoulis Jr.](https://www.facebook.com/Space-Emblem-Art-by-Bill-Coukoulis-Jr-724534137569963), Tim artfully turned rough sketches and ideas proposed by the crew into a striking emblem.
